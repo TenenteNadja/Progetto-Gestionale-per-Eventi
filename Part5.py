@@ -1,6 +1,6 @@
 # =========================================
 # EVENTHUB MANAGER
-# COMMIT 5 
+# COMMIT 5 COMPLETO
 # Eventi + Cinema + Lavori + Inserimento lavori
 # =========================================
 
@@ -576,3 +576,4 @@ while True:
 
     else:
         print("\nOpzione non valida.")
+
