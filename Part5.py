@@ -575,9 +575,4 @@ while True:
         break
 
     else:
-<<<<<<< HEAD
         print("\nOpzione non valida.")
-=======
-        print("\nOpzione non valida.")
-
->>>>>>> 50502c2d3d93ded6c23cb49e7f48f39cc6049a5a
