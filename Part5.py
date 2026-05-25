@@ -576,4 +576,3 @@ while True:
 
     else:
         print("\nOpzione non valida.")
-
